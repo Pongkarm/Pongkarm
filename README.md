@@ -23,9 +23,16 @@
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
+| 🚀 **[FutureMe AI](https://github.com/Pongkarm/Future_Me)** | Career & study guidance platform for Thai students based on *"Rules decide. AI explains."* Developed backend architecture and evidence-based guidance logic. **National Competitor & Finalist, JUMP Thailand Hackathon 2026** | `Python` `TypeScript` `Next.js` |
 | 🎨 **[Project_Luma_PKW](https://github.com/Pongkarm/Project_Luma_PKW)** | Distributed AI image-generation platform across 4 networked nodes. Engineered Node 3 (Backend & Database) handling REST APIs, async task processing, and database pipelines. | `Python` `FastAPI` `SQLite` `Nginx` |
 | ⚡ **[avr-embedded-hub](https://github.com/Pongkarm/avr-embedded-hub)** | Interactive web simulations & lab hub for AVR ATmega328P microcontroller architectures, register-level operations, timers (Timer0 Square Wave, CTC mode), and external pulse counters. | `C` `Assembly` `AVR` `HTML/CSS` |
 | 🌾 **[Auto_farm_CKR](https://github.com/Pongkarm/Auto_farm_CKR)** | Automated game assistant combining OpenCV image template matching, screen detection, and deep learning OCR (EasyOCR) with Discord Webhook reporting. | `Python` `OpenCV` `EasyOCR` `CLI` |
+
+---
+
+### 🏆 Competitions & Hackathons
+
+- 🚀 **National Competitor & Finalist:** JUMP Thailand Hackathon by AIS 2026 (AIS Academy × NIA) — *FutureMe AI*
 
 ---
 
