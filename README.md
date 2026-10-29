@@ -23,7 +23,9 @@
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
+| 🎨 **[Project_Luma_PKW](https://github.com/Pongkarm/Project_Luma_PKW)** | Distributed AI image-generation platform across 4 networked nodes. Engineered Node 3 (Backend & Database) handling REST APIs, async task processing, and database pipelines. | `Python` `FastAPI` `SQLite` `Nginx` |
 | ⚡ **[avr-embedded-hub](https://github.com/Pongkarm/avr-embedded-hub)** | Interactive web simulations & lab hub for AVR ATmega328P microcontroller architectures, register-level operations, timers (Timer0 Square Wave, CTC mode), and external pulse counters. | `C` `Assembly` `AVR` `HTML/CSS` |
+| 🌾 **[Auto_farm_CKR](https://github.com/Pongkarm/Auto_farm_CKR)** | Automated game assistant combining OpenCV image template matching, screen detection, and deep learning OCR (EasyOCR) with Discord Webhook reporting. | `Python` `OpenCV` `EasyOCR` `CLI` |
 
 ---
 
@@ -31,8 +33,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,git,github,linux,arduino,vscode&perline=12&theme=light" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,git,github,linux,arduino,vscode&perline=12&theme=dark" alt="C, C++, C#, Python, JavaScript, HTML, CSS, Git, GitHub, Linux, Arduino, VS Code" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,fastapi,sqlite,nginx,git,github,linux,arduino,vscode&perline=8&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,fastapi,sqlite,nginx,git,github,linux,arduino,vscode&perline=8&theme=dark" alt="C, C++, C#, Python, JavaScript, HTML, CSS, FastAPI, SQLite, Nginx, Git, GitHub, Linux, Arduino, VS Code" />
   </picture>
 </p>
 
